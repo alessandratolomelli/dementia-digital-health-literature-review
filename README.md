@@ -1,9 +1,4 @@
 # Digital Health Technologies for Dementia Care: A Systematic Literature Review
-
-[![Authors](https://img.shields.io/badge/Authors-Domenicali,%20Passini,%20Tolomelli-blue)]()
-[![Institution](https://img.shields.io/badge/Institution-University%20of%20Bologna-red)]()
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-
 ## 📌 Overview
 This systematic literature review investigates the integration of **continuous digital monitoring**, **ambient intelligence**, and **objective digital phenotyping** for early detection and longitudinal health assessment in dementia care. 
 
@@ -18,11 +13,3 @@ Our review categorizes solutions into three main pillars:
 * **Domain Shift & Adherence:** Vulnerability to unconstrained home environments and compliance barriers caused by cognitive decline[cite: 16].
 * **Data Privacy:** Need for Federated Learning (FL) and Differential Privacy to comply with GDPR[cite: 16, 19].
 
-## 📁 Repository Structure
-```text
-DH_project/
-├── .gitignore          # Git exclusion rules
-├── LICENSE             # MIT License
-├── README.md           # Project documentation
-└── docs/               # Research paper
-    └── DH_project.pdf  # Systematic literature review manuscript
