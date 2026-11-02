@@ -1,7 +1,7 @@
 # Digital Health Technologies for Dementia Care: A Systematic Literature Review
 
 ## 📌 Overview
-This systematic literature review investigates the integration of continuous digital monitoring, ambient intelligence, and objective digital phenotyping for early detection and longitudinal health assessment in dementia care[cite: 1]. You can read or download the full paper [here](https://github.com/alessandratolomelli/dementia-digital-health-literature-review/blob/main/docs/Digital%20Health%20Technologies%20for%20Dementia%20Care.pdf).
+This systematic literature review investigates the integration of continuous digital monitoring, ambient intelligence, and objective digital phenotyping for early detection and longitudinal health assessment in dementia care. You can read or download the full paper [here](https://github.com/alessandratolomelli/dementia-digital-health-literature-review/blob/main/docs/Digital%20Health%20Technologies%20for%20Dementia%20Care.pdf).
 
 ## 🛠️ Technological Taxonomy
 Our review categorizes solutions into three main pillars:
